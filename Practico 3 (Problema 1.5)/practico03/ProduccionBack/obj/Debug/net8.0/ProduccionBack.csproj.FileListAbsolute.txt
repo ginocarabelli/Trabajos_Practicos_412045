@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.sourcelink.json
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\bin\Debug\net8.0\ProduccionBack.deps.json
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\bin\Debug\net8.0\ProduccionBack.dll
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\bin\Debug\net8.0\ProduccionBack.pdb
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.dll
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\refint\ProduccionBack.dll
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ProduccionBack.pdb
+C:\Users\User\Desktop\Trabajos TUP\Trabajos_Practicos_412045\Practico 3 (Problema 1.5)\practico03\ProduccionBack\obj\Debug\net8.0\ref\ProduccionBack.dll
