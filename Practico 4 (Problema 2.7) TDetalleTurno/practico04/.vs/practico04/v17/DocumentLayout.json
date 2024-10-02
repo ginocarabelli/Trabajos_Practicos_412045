@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\Trabajos_Practicos_412045\\Practico 4 (Problema 2.7) TDetalleTurno\\practico04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A560F7BA-4D12-4930-B060-360128087213}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\user\\desktop\\trabajos tup\\trabajos_practicos_412045\\practico 4 (problema 2.7) tdetalleturno\\practico04\\efwebapi\\controllers\\detallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A560F7BA-4D12-4930-B060-360128087213}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\controllers\\detallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\Trabajos_Practicos_412045\\Practico 4 (Problema 2.7) TDetalleTurno\\practico04\\EFWebAPI\\Controllers\\DetalleController.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Controllers\\DetalleController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\Trabajos_Practicos_412045\\Practico 4 (Problema 2.7) TDetalleTurno\\practico04\\EFWebAPI\\Controllers\\DetalleController.cs",
+              "RelativeToolTip": "EFWebAPI\\Controllers\\DetalleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:39:58.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
