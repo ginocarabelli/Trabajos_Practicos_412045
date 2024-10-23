@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.principal-content{
+    display: flex;
+}
+
+.nav-side-bar{
+    background-color: rgb(16, 140, 212);
+    height: 95vh;
+    width: 250px;
+    position: relative;
+}
+
+.nav-side-bar i{
+    color: white;
+    font-size: 20px;
+}
+
+.nav-side-bar .toggler-menu i{
+    margin: 20px;
+    cursor: pointer;
+}
+
+.nav-side-bar .user-info{
+    background-color: rgba(33, 161, 235, 0.445);
+    margin: auto 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.user-info .fa-user{
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.user-info .username, 
+.user-info .name{
+    margin: auto;
+}
+
+.menu-list .top-menu-list{
+    display: flex;
+}
+
+.top-menu-list h4{
+    margin-left: 30px;
+}
+
+.menu-list{
+    display: flex;
+    height: 412px;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+}
+
+.menu-list .fa-plus{
+    cursor: pointer;
+}
+
+.top-menu-list-icons{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.log-out-icon{
+    display: flex;
+    gap: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.log-out-icon h4:hover, .log-out-icon i:hover{
+    color: red;
+    transition: .3s;
+}
+
+/*HIDE*/
+.nav-side-bar--hide{
+    position: absolute;
+}
+
+.nav-side-bar--hide i{
+    font-size: 25px;
+}
+
+.nav-side-bar--hide .toggler-menu--hide i{
+    margin: 20px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(16, 140, 212);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nav-content--hide{
+    display: none;
+}
+
+
+/*END HIDE*/
+
+main{
+    height: 90.4vh;
+    margin: 15px 90px ;
+}
+
+footer{
+    background-color: rgb(16, 140, 212);
+    height: 5vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+footer p{
+    margin: auto;
+}
+
